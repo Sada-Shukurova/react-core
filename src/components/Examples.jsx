@@ -55,7 +55,6 @@ const Examples = () => {
             </div>
           )}
         </Tabs>
-        <menu></menu>
       </Section>
     </>
   );
